@@ -1,9 +1,0 @@
-langchain
-typing 
-regex
-streamlit
-openai
-pydantic 
-pypdf
-pinecone-client
-sentence-transformers
